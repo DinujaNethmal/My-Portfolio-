@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+
+/* typography */
+body {
+  @apply font-sans bg-slate-950;
+}
+@tailwind utilities;
+
+/* custom variables if needed */
+:root {
+  --color-background: #1a202c;
+  --color-foreground: #2b6cb0;
+  --color-card: #2d3748;
+}
