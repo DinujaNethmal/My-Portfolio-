@@ -1,7 +1,7 @@
 import React from 'react';
 
 export default function About() {
-  const skills = ['React', 'Node.js', 'JavaScript', 'Tailwind CSS', 'MongoDB', 'Web Design'];
+  const skills = ['React', 'Node.js', 'JavaScript', 'Tailwind CSS', 'MongoDB', 'Web Design', 'Kotlin', 'Android SDK',  'MPAndroidChart', 'HTML', 'CSS', 'JavaScript', 'Git', 'MERN Stack'];
 
   return (
     <section className="py-32 bg-gradient-to-br from-dark via-blue-950/20 to-dark text-white" id="about">
