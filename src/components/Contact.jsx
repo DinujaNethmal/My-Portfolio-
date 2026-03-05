@@ -14,13 +14,13 @@ export default function Contact() {
 
         <div className="flex flex-col sm:flex-row gap-6 justify-center">
           <a
-            href="mailto:your.email@example.com"
+            href="dinujanethmal119@GMAIL.COM"
             className="px-12 py-4 bg-gradient-to-r from-primary to-secondary text-white font-bold rounded-lg shadow-2xl hover:shadow-primary/50 transition transform hover:scale-105 text-lg"
           >
             Send Email
           </a>
           <a
-            href="#"
+            href="https://www.linkedin.com/in/dinuja-nethmal-gamage-364152269/"
             className="px-12 py-4 border-2 border-primary text-primary font-bold rounded-lg hover:bg-primary/10 transition text-lg"
           >
             Connect on LinkedIn

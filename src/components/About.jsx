@@ -12,10 +12,10 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-16 max-w-6xl">
           <div>
             <p className="text-xl text-gray-300 leading-relaxed mb-6 font-light">
-              I'm a passionate software developer with a deep love for creating elegant, user-friendly web applications. With a strong foundation in computer science and years of hands-on experience, I thrive on solving complex problems.
+            I am a results-driven UI/UX Designer and Mobile App Developer with a deep love for creating elegant, user-friendly digital applications. Currently pursuing my BSc (Hons) in IT at SLIIT, I thrive on solving complex problems and bridging the gap between beautiful design and powerful code.
             </p>
             <p className="text-xl text-gray-300 leading-relaxed font-light">
-              My expertise spans full-stack development with React, Node.js, and modern web technologies. I'm constantly learning and pushing boundaries to deliver exceptional digital experiences.
+            As a passionate software developer with a strong foundation in computer science and years of hands-on experience, I am dedicated to delivering exceptional digital experiences. My expertise spans Full-Stack development with React, Node.js, and modern web technologies, and I am constantly learning and pushing boundaries to create high-impact mobile solutions and scalable architectures that feel amazing to use. 
             </p>
           </div>
           <div>

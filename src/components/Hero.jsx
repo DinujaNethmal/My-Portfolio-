@@ -6,7 +6,7 @@ export default function Hero() {
     <section className="min-h-screen flex items-center justify-center bg-gradient-to-br from-dark via-darkGray to-dark text-white pt-20" id="home">
       <div className="container mx-auto px-6 py-12">
         {/* test for tailwind */}
-        <p className="text-red-500 font-bold">If you see this in red, Tailwind is working</p>
+        
         <div className="grid md:grid-cols-2 gap-16 items-center">
           {/* Photo Section */}
           <div className="flex justify-center order-2 md:order-1">

@@ -22,6 +22,20 @@ const projects = [
     url: '#',
     gradient: 'from-orange-600 to-red-600',
   },
+  {
+    title: 'Save Sync – Personal Finance Tracking App',
+    description: 'Led the development of a personal finance app enabling users to track expenses, monitor spending trends, and set budgets. Integrated features like categorized logging, visual summaries, and budget alerts for an intuitive experience. ',
+    tags: ['Kotlin', 'Android SDK', 'Room Database', 'Material Design', 'MPAndroidChart'],
+    url: 'https://github.com/DinujaNethmal/Save-Sync',
+    gradient: 'from-green-600 to-lime-600',
+  },
+  {
+    title: 'PawTracker – Appointment Management Module',
+    description: 'Developed the appointment management feature for a pet wellness web app. Enabled users to book, view, edit, delete appointments, and download appointment details as PDFs. On the admin side, implemented appointment review functionality with approve/reject actions, PDF generation, and real-time notification dispatch to users. ',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Git', 'MERN Stack'],
+    url: 'https://github.com/DinujaNethmal/PawTracker',
+    gradient: 'from-blue-600 to-cyan-600',
+  },
 ];
 
 export default function Projects() {

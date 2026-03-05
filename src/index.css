@@ -1,11 +1,9 @@
-@tailwind base;
-@tailwind components;
+@import "tailwindcss";
 
 /* typography */
 body {
-  @apply font-sans bg-slate-950;
+  font-family: 'Inter', sans-serif;
 }
-@tailwind utilities;
 
 /* custom variables if needed */
 :root {
