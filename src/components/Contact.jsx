@@ -4,9 +4,9 @@ const CONTACT_INFO = {
   email: 'dinujanethmal119@gmail.com',
   phone: '+94 710834641',
   location: 'Colombo, Sri Lanka',
-  linkedin: 'https://www.linkedin.com/in/dinuja-nethmal-gamage-364152269/',
+  linkedin: 'https://www.linkedin.com/in/dinuja-nethmal-46a879384/',
   github: 'https://github.com/DinujaNethmal',
-  portfolio: 'https://dinujanethmal.com',
+  portfolio: 'https://github.com/DinujaNethmal/My-Portfolio-',
   // Put your resume PDF in: My-Portfolio-/public/Dinuja-Nethmal-Resume.pdf
   // Vite will serve it at /Dinuja-Nethmal-Resume.pdf
   resume: '/Dinuja-Nethmal-Resume.pdf',

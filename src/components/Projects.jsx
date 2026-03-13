@@ -36,6 +36,13 @@ const projects = [
     url: 'https://github.com/DinujaNethmal/PawTracker',
     gradient: 'from-blue-600 to-cyan-600',
   },
+  {
+    title: 'Vehicle inspection company management system',
+    description: 'Developed a vehicle inspection management web application to streamline the process of recording, managing, and reviewing vehicle inspection details. Implemented features allowing staff to register vehicles, schedule inspections, update inspection results, and maintain inspection records. The system also includes a user-friendly interface for customers to view their vehicle inspection history and receive notifications about upcoming inspections.',
+    tags: ['HTML', 'CSS', 'JavaScript', 'Git', 'MERN Stack'],
+    url: 'https://github.com/DinujaNethmal/Vehicle-inspection-company-.git',
+    gradient: 'from-pink-600 to-cyan-600',
+  },
 ];
 
 export default function Projects() {
